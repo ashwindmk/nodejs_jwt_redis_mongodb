@@ -102,3 +102,7 @@ curl --location --request POST 'http://localhost:3000/api/v1/auth/token' \
 ```
 
 Save the new `access_token` and `refresh_token`.
+
+### Reference
+
+- https://github.com/Sid-Shanker/jwt-auth-nodejs
